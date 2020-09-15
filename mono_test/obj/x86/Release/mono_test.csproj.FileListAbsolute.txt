@@ -1,0 +1,4 @@
+C:\Users\Wiserax\source\repos\C#\mono_test\mono_test\bin\Release\mono_test.exe
+C:\Users\Wiserax\source\repos\C#\mono_test\mono_test\bin\Release\mono_test.pdb
+C:\Users\Wiserax\source\repos\C#\mono_test\mono_test\obj\x86\Release\mono_test.exe
+C:\Users\Wiserax\source\repos\C#\mono_test\mono_test\obj\x86\Release\mono_test.pdb
